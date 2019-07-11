@@ -14,6 +14,7 @@ public class Test {
 		
 		System.out.println("Conflit msg");
 		
+		System.out.println("Conflit 2");
 	}
 
 }
