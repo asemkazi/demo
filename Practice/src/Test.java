@@ -11,6 +11,10 @@ public class Test {
 		
 		System.out.println("new changes");
 		
+		System.out.println("Conflit msg");
+		System.out.println("Conflit msg 3");
+		
+		System.out.println("Conflit 2");
 	}
 
 }
