@@ -7,12 +7,16 @@ public class Test {
 		float a=1__2__3__4.7_8_9f;
 		System.out.println(a);
 
-		System.out.println("Hllo");sdaFcdc
+		System.out.println("Hllo");
 		
-		System.out.println("new changes");
+		
 		
 		System.out.println("Conflit msg");
 		System.out.println("Conflit msg 3");
+		
+//		adsdmsaldnsdsl
+//		asdasdss
+//		this is demo
 		
 		System.out.println("Conflit 2");
 	}
